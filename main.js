@@ -6,4 +6,4 @@ function demo2(str){
 //got q
 //Wow good idea! but change it to 2
 
-//test
+//testghjbhbhbhbhbhb
