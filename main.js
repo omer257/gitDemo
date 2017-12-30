@@ -3,6 +3,6 @@ function demo1(str){
 }
 
 //got q
-
+//Wow good idea!
 
 //test
